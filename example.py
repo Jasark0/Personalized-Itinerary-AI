@@ -1,2 +1,1 @@
-print("HUUUUUU")
-print("testing webgoons")
+print("HUUUU")
